@@ -68,3 +68,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+ABOUT PROJECT
+
+This is a personal portfolio website built using React.js to showcase my skills, projects, and experience as a web developer. The portfolio highlights my expertise in modern web development technologies, including JavaScript, HTML, CSS, Node.js, and MongoDB.
+
+Features:
+
+1. Projects Section: A collection of my most notable web development projects, showcasing frontend development, full-stack development skills, with a focus on creating dynamic, responsive applications.
+
+2. Skills Section: A detailed overview of my technical skills, demonstrating proficiency in front-end and back-end technologies.
+
+3. Responsive Design: Fully optimized for different screen sizes, ensuring a smooth user experience across devices.
+
+External Features
+
+1. I have used animate library from Animate.css for animation.
+
+2. I have used react-on-screen dependencie so that my animate can be align during scrolling the website.
+
+3. I also used BootStrap for using predefined components like Navbar, Row, Col structure.
